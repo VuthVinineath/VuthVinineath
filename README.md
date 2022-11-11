@@ -1,4 +1,4 @@
-### Hello there 👋, I'm Vinineath ! 🦋
+### Hello there, I'm Vinineath !
 <ul>
     <li>🎓 Currently: Fintech student at ACLEDA INSTITUTE OF BUSINESS</li>
     <li>Fulltime Developer</li>
